@@ -1,0 +1,5 @@
+## Tomorrow's Task
+# ELK, Kafka, Terraform revision
+# 1 hour coding
+# 1 hour English reading
+# 1 hour Quesion Paper
